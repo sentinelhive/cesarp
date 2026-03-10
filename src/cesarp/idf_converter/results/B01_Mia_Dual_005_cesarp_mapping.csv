@@ -1,0 +1,39 @@
+Category,Object Type,CESARP Name,Nestli Name
+Material,Material,http://uesl_data/sources/archetypes/constructionLayers/1918_Gr2_L1,Ground_1918_T2_Layer1
+Material,Material,http://uesl_data/sources/archetypes/constructionLayers/1918_Gr2_L2,Ground_1918_T2_Layer2
+Material,Material,http://uesl_data/sources/archetypes/constructionLayers/1918_Gr2_L3,Ground_1918_T2_Layer3
+Material,Material,http://uesl_data/sources/archetypes/constructionLayers/1918_Gr2_L4,Ground_1918_T2_Layer4
+Material,Material,http://uesl_data/sources/archetypes/constructionLayers/1918_Gr2_L5,Ground_1918_T2_Layer5
+Material,Material,http://uesl_data/sources/archetypes/floors/cesar_default_internal_ceiling_L1,Internal Ceiling_Layer1
+Material,Material,http://uesl_data/sources/archetypes/constructionLayers/1918_Wa4_L1,Wall_1918_T4_Layer1
+Material,Material,http://uesl_data/sources/archetypes/constructionLayers/1918_Wa4_L3,Wall_1918_T4_Layer3
+Material,Material,http://uesl_data/sources/archetypes/constructionLayers/1918_Wa4_L4,Wall_1918_T4_Layer4
+Material,Material,http://uesl_data/sources/archetypes/constructionLayers/1918_Ro1_L1,Roof_1918_T1_Layer1
+Material,Material,http://uesl_data/sources/archetypes/constructionLayers/1918_Ro1_L2,Roof_1918_T1_Layer2
+Material,Material,http://uesl_data/sources/archetypes/constructionLayers/1918_Ro1_L3,Roof_1918_T1_Layer3
+Material,Material:AirGap,http://uesl_data/sources/archetypes/constructionLayers/1918_Wa4_L2,Wall_1918_T4_Layer2
+Window Material,WindowMaterial:Glazing,http://uesl_data/sources/archetypes/constructionLayers/1918_Wi1_L1,Window_1918_T1_Layer1
+Window Material,WindowMaterial:Glazing,http://uesl_data/sources/archetypes/constructionLayers/1918_Wi1_L3,Window_1918_T1_Layer3
+Window Material,WindowMaterial:Gas,http://uesl_data/sources/archetypes/constructionLayers/1918_Wi1_L2,Window_1918_T1_Layer2
+Construction,Construction,http://uesl_data/sources/archetypes/grounds/Ground1918_concrete_medium,Ground 1918 Concrete Medium
+Construction,Construction,http://uesl_data/sources/archetypes/floors/cesar_default_internal_ceiling,Floor Internal Ceiling
+Construction,Construction,http://uesl_data/sources/archetypes/floors/cesar_default_internal_ceiling_mirrored,Floor Internal Ceiling Mirrored
+Construction,Construction,http://uesl_data/sources/archetypes/walls/Wall1918_brick_dl_medium,Wall 1918 Brick Dl Medium
+Construction,Construction,http://uesl_data/sources/archetypes/roofs/Roof1918_peatfiber_medium,Roof 1918 Peatfiber Medium
+Construction,Construction,http://uesl_data/sources/archetypes/windows/Window1918_Standard,Window 1918 Standard
+Zone,Zone,ZoneFloor0,FLOOR0:ZONE0
+Surface,BuildingSurface:Detailed,ZoneFloor0_GroundFloor,FLOOR0:ZONE0_GroundFloor
+Surface,BuildingSurface:Detailed,ZoneFloor0_Wall_0,FLOOR0:ZONE0_Wall_0
+Surface,BuildingSurface:Detailed,ZoneFloor0_Wall_1,FLOOR0:ZONE0_Wall_1
+Surface,BuildingSurface:Detailed,ZoneFloor0_Wall_2,FLOOR0:ZONE0_Wall_2
+Surface,BuildingSurface:Detailed,ZoneFloor0_Wall_3,FLOOR0:ZONE0_Wall_3
+Surface,BuildingSurface:Detailed,ZoneFloor0_Roof,FLOOR0:ZONE0_Roof
+Surface,FenestrationSurface:Detailed,ZoneFloor0_Wall_0_Win,FLOOR0:ZONE0_Wall_0_Win
+Surface,FenestrationSurface:Detailed,ZoneFloor0_Wall_1_Win,FLOOR0:ZONE0_Wall_1_Win
+Surface,FenestrationSurface:Detailed,ZoneFloor0_Wall_2_Win,FLOOR0:ZONE0_Wall_2_Win
+Surface,FenestrationSurface:Detailed,ZoneFloor0_Wall_3_Win,FLOOR0:ZONE0_Wall_3_Win
+Internal Gains,People,ZoneFloor0_People,FLOOR0:ZONE0_People
+Internal Gains,Lights,ZoneFloor0_Lights,FLOOR0:ZONE0_Lights
+Internal Gains,ElectricEquipment,ZoneFloor0_Appliances,FLOOR0:ZONE0_Appliances
+Internal Gains,HotWaterEquipment,ZoneFloor0_DHW,FLOOR0:ZONE0_DHW
+Internal Gains,ZoneInfiltration:DesignFlowRate,ZoneFloor0_Infiltration,FLOOR0:ZONE0_Infiltration
